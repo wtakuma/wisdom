@@ -63,6 +63,10 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
   
+#- icon: researchgate
+#  icon_pack: ai
+#  link:
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
