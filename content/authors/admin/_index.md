@@ -59,6 +59,10 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org0000-0003-1227-5127
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=3gRzYKUAAAAJ&hl=en&oi=sra
+  
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -68,7 +72,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "wtakuma@emory.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
